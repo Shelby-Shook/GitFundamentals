@@ -1,0 +1,4 @@
+# git clone
+
+Cloning a repository is the act of creating a new directory and an associated copy of the remote repository. It will be a clone, meaning it has all tracked commits and commit history
+
